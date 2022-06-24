@@ -1,0 +1,9 @@
+#Fourier Tranform: from time to frequency domain
+
+#DFT
+- Output: spectral vector for freq bins, Fourier coeff for each bin
+
+#STFT
+- Output = spectral matrix for freq bins and frames
+
+- no of freq bins = (framesize)/2 +1
